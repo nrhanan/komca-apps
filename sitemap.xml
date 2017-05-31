@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://F1.html/index.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <loc>http://KOMCA.COM/index.html</loc>
+    <lastmod>2017-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://F1.html/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://KOMCA.COM/phone/index.html"/>
+    <image:image>
+      <image:loc>http://KOMCA.COM/images/artwork-4.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://F1.html/images/final-01.png</loc>
-    <lastmod>2017-05-24</lastmod>
+    <loc>http://KOMCA.COM/phone/f2.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://KOMCA.COM/phone/f1.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://KOMCA.COM/phone/icon.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://KOMCA.COM/phone/f3.html</loc>
+    <lastmod>2017-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

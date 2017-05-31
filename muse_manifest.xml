@@ -1,24 +1,49 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="F1.html" resolutions="1x" timestamp="1495594533523">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4054877366" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="3963783596" seo="true" mt="1495525637062" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KOMCA.COM" resolutions="1x" timestamp="1496243361830">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="58371178" ref="index"/>
+    <file name="index.css" crc="229767745" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="163421577" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="36584860" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:phone>index"/>
-    <file name="require.js" crc="244322403" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>f1:phone>f2:phone>f3:index:phone>icon"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>f1:phone>f2:phone>f3:index:phone>icon"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>f1:phone>f2:phone>f3:index:phone>icon"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>f1:phone>f2:phone>f3:index:phone>icon"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>f1:phone>f2:phone>f3:index:phone>icon"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>f1:phone>f2:phone>f3:index:phone>icon"/>
   </folder>
   <folder name="images">
-    <file name="final-01.png" crc="142918370" seo="true" ref="phone>index"/>
+    <file name="artwork-4.svg" crc="3948381298" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 4_poster_.png" crc="463344933" ref="phone>index"/>
+    <file name="final-06-crop-u181.png" crc="3917679724" seo="true" ref="phone>f1">
+      <caption webpage="f1" alt=""/>
+    </file>
+    <file name="final-07-crop-u203.png" crc="174642743" seo="true" ref="phone>f2">
+      <caption webpage="f2" alt=""/>
+    </file>
+    <file name="final-08-crop-u225.png" crc="136533616" seo="true" ref="phone>f3">
+      <caption webpage="f3" alt=""/>
+    </file>
+    <file name="artwork-5.svg" crc="3954779404" seo="true" ref="phone>icon">
+      <caption webpage="icon" alt=""/>
+    </file>
+    <file name="artwork 5_poster_.png" crc="3873570205" ref="phone>icon"/>
   </folder>
-  <file name="index.html" crc="454710433" seo="true" mt="1495525457511" redirect="false"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="f1.css" crc="70221405" ref="phone>f1"/>
+      <file name="f3.css" crc="302961321" ref="phone>f3"/>
+      <file name="f2.css" crc="3964316668" ref="phone>f2"/>
+      <file name="index.css" crc="3879053430" ref="phone>index"/>
+      <file name="icon.css" crc="17692311" ref="phone>icon"/>
+    </folder>
+    <file name="index.html" crc="3991539005" seo="true" mt="1496240328912" redirect="true"/>
+    <file name="f1.html" crc="3832353026" seo="true" mt="1496238902778" redirect="true"/>
+    <file name="f2.html" crc="3884861153" seo="true" mt="1496238980602" redirect="true"/>
+    <file name="f3.html" crc="114015072" seo="true" mt="1496239087738" redirect="true"/>
+    <file name="icon.html" crc="4020725692" seo="true" mt="1496240335856" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="534227346" seo="true" mt="1496243350005" redirect="true"/>
 </manifest>
